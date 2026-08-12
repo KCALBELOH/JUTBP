@@ -3,9 +3,11 @@ Johns Blueprints.
 
 Includes custom engines.
 
-Needed :
+Needed (Parts):
 
-Procedural parts,
+Procedural parts.
+
+Needed (Texture packs) :
 
 PEX Shapes plus,
 
