@@ -1,9 +1,9 @@
-# JUTBP
+# JUTBP NOT A MOD
 Johns Blueprints.
 
-Mostly custom engines.
+Custom engines, and misc things (to be added later),
 
-View the pngs i guess
+View the images to see the parts,
 
 Needed (Parts):
 
